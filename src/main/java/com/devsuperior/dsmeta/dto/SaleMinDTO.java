@@ -3,7 +3,6 @@ package com.devsuperior.dsmeta.dto;
 import java.time.LocalDate;
 
 import com.devsuperior.dsmeta.entities.Sale;
-import com.devsuperior.dsmeta.entities.Seller;
 
 public class SaleMinDTO {
 
